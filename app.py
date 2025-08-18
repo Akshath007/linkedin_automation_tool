@@ -19,7 +19,7 @@ st.set_page_config(
 # Configure Gemini API
 GEMINI_API_KEY = "AIzaSyCQOE7NN3n2oL_oR_ZjKjD7taTphphBYy4"
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-pro')
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize database
 def init_db():
