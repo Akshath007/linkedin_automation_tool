@@ -11,6 +11,7 @@ An AI-powered LinkedIn automation platform built with Streamlit and Google Gemin
 - **📈 Analytics Dashboard**: Track performance and compliance metrics
 - **🔒 GDPR/CAN-SPAM Compliant**: Built with privacy regulations in mind
 
+click here :https://linkedinautomationtool-shecyftei9sikevgqnedhx.streamlit.app/
 ## LinkedIn Safety Limits (2025)
 
 | Action | Free Account | Premium Account |
